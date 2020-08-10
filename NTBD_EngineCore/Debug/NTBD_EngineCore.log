@@ -1,0 +1,22 @@
+﻿  Window.cpp
+D:\DevRepo\NtbD_Engine\NTBD_Engine\NTBD_EngineCore\Src\Graphics\Window.cpp(5,17): error C2653: 'Window': is not a class or namespace name
+D:\DevRepo\NtbD_Engine\NTBD_Engine\NTBD_EngineCore\Src\Graphics\Window.cpp(6,3): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\DevRepo\NtbD_Engine\NTBD_Engine\NTBD_EngineCore\Src\Graphics\Window.cpp(7,4): error C2065: 'M_Name': undeclared identifier
+D:\DevRepo\NtbD_Engine\NTBD_Engine\NTBD_EngineCore\Src\Graphics\Window.cpp(8,4): error C2065: 'M_Width': undeclared identifier
+D:\DevRepo\NtbD_Engine\NTBD_Engine\NTBD_EngineCore\Src\Graphics\Window.cpp(8,14): error C2065: 'Width': undeclared identifier
+D:\DevRepo\NtbD_Engine\NTBD_Engine\NTBD_EngineCore\Src\Graphics\Window.cpp(9,4): error C2065: 'M_Height': undeclared identifier
+D:\DevRepo\NtbD_Engine\NTBD_Engine\NTBD_EngineCore\Src\Graphics\Window.cpp(9,15): error C2065: 'Height': undeclared identifier
+D:\DevRepo\NtbD_Engine\NTBD_Engine\NTBD_EngineCore\Src\Graphics\Window.cpp(10,8): error C3861: 'init': identifier not found
+D:\DevRepo\NtbD_Engine\NTBD_Engine\NTBD_EngineCore\Src\Graphics\Window.cpp(12,3): warning C4508: 'Ntbd::Graphics::Window': function should return a value; 'void' return type assumed
+D:\DevRepo\NtbD_Engine\NTBD_Engine\NTBD_EngineCore\Src\Graphics\Window.cpp(14,18): error C2653: 'Window': is not a class or namespace name
+D:\DevRepo\NtbD_Engine\NTBD_Engine\NTBD_EngineCore\Src\Graphics\Window.cpp(14,18): error C2523: '<Unknown>::~Window': destructor tag mismatch
+D:\DevRepo\NtbD_Engine\NTBD_Engine\NTBD_EngineCore\Src\Graphics\Window.cpp(15,3): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\DevRepo\NtbD_Engine\NTBD_Engine\NTBD_EngineCore\Src\Graphics\Window.cpp(17,3): warning C4508: 'Ntbd::Graphics::Window': function should return a value; 'void' return type assumed
+D:\DevRepo\NtbD_Engine\NTBD_Engine\NTBD_EngineCore\Src\Graphics\Window.cpp(19,20): error C2653: 'Window': is not a class or namespace name
+D:\DevRepo\NtbD_Engine\NTBD_Engine\NTBD_EngineCore\Src\Graphics\Window.cpp(20,3): error C2447: '{': missing function header (old-style formal list?)
+D:\DevRepo\NtbD_Engine\NTBD_Engine\NTBD_EngineCore\Src\Graphics\Window.cpp(38,22): error C2653: 'Window': is not a class or namespace name
+D:\DevRepo\NtbD_Engine\NTBD_Engine\NTBD_EngineCore\Src\Graphics\Window.cpp(39,3): error C2270: 'closed': modifiers not allowed on nonmember functions
+D:\DevRepo\NtbD_Engine\NTBD_Engine\NTBD_EngineCore\Src\Graphics\Window.cpp(40,33): error C2065: 'M_Window': undeclared identifier
+D:\DevRepo\NtbD_Engine\NTBD_Engine\NTBD_EngineCore\Src\Graphics\Window.cpp(43,22): error C2653: 'Window': is not a class or namespace name
+D:\DevRepo\NtbD_Engine\NTBD_Engine\NTBD_EngineCore\Src\Graphics\Window.cpp(44,3): error C2270: 'update': modifiers not allowed on nonmember functions
+D:\DevRepo\NtbD_Engine\NTBD_Engine\NTBD_EngineCore\Src\Graphics\Window.cpp(46,20): error C2065: 'M_Window': undeclared identifier
